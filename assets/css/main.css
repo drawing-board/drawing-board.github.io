@@ -262,7 +262,7 @@ a:before, a:after {
 }
 #about {
 	background: #fff;
-	padding: 30px 0;
+	padding: 30px 0 0 0;
 }
 #about img {
 	margin-top: 65px;
@@ -533,4 +533,8 @@ body .header {
 	font-size: 30px;
 	line-height: 38px;
 }
+}
+
+#masthead-img {
+	margin-bottom: 15px;
 }
